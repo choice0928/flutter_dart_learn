@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c94d0d7b-1541-4e30-868a-181e32b179b4" name="Default Changelist" comment="" />
+    <list default="true" id="c94d0d7b-1541-4e30-868a-181e32b179b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/opp_learn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/opp_learn.dart" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -49,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/opp_learn.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+            <state relative-caret-position="114">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,15 +85,18 @@
       <find>_incrementCounter</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/data_type.dart" />
-        <option value="$PROJECT_DIR$/lib/opp_learn.dart" />
         <option value="$PROJECT_DIR$/lib/function_learn.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/generic_learn.dart" />
         <option value="$PROJECT_DIR$/lib/skills_learn.dart" />
+        <option value="$PROJECT_DIR$/lib/opp_learn.dart" />
       </list>
     </option>
   </component>
@@ -106,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,6 +128,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,6 +166,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="30" width="1400" height="802" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.2496318" />
       <window_info id="Captures" order="1" sideWeight="0.5011136" side_tool="true" weight="0.3298969" />
@@ -223,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/opp_learn.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>

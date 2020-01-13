@@ -5,7 +5,6 @@ class Student extends Person {
   String city;
   String country;
   String name;
-
   //大括号代表可选参数，赋值视为默认值
   Student(this._school, String name, int age,
       {this.city, this.country = 'China'})
